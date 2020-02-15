@@ -16,7 +16,7 @@
     "react-native-navigation-library": "^0.3.2",
     "react-native-table-component": "^1.2.0",
     "react-navigation": "^3.9.2",
-    "yarn": "^1.15.2"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
